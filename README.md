@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loopy-ux
 - 👀 I’m interested in Front End, 
-- 🌱 I’m currently learning building up my blog and CS fundamental classes.
+- 🌱 I’m currently learning building up my blog and fundamental CS classes.
 - 💞️ I’m looking to collaborate on all my programs.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
